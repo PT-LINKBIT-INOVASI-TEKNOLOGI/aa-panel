@@ -78,18 +78,6 @@ If you need to remove aaPanel, use the following command:
 wget http://www.aapanel.com/script/clean.sh && bash clean.sh
 ```
 
-## How to Use This README on GitHub
-To create a `README.md` file in your GitHub repository:
-
-1. Go to your repository on GitHub.
-2. Click on **Add file** > **Create new file**.
-3. Name the file `README.md`.
-4. Copy and paste the content of this guide into the file.
-5. Click **Commit changes**.
-
-## Conclusion
-You have successfully installed aaPanel on Ubuntu Server 22.04. Enjoy managing your web hosting environment efficiently!
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
