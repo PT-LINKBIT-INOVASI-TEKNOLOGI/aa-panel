@@ -1,6 +1,6 @@
 # aaPanel Installation Guide for Ubuntu Server 22.04
 
-![aaPanel](https://www.aapanel.com/images/logo.png)
+![aaPanel](https://www.aapanel.com/static/images/bt_logo.png)
 
 ![GitHub](https://img.shields.io/github/license/your-repo/your-project)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-orange)
